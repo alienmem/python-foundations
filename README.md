@@ -20,7 +20,3 @@ After learning C through 42 School, Python feels like a power tool. I understand
 - [ ] CLI Task Manager
 - [ ] Data Analyzer
 - [ ] Capstone Project
-
----
-
-**License**: MIT
